@@ -1,0 +1,10 @@
+,James Carter,General Manager
+,Sarah Higgins,Receptionist
+,Michael Scott,Front Desk Clerk
+,Emily Watson,Booking Manager
+,Robert Brown,Security Officer
+,Jessica Taylor,Receptionist
+,David Wilson,Maintenance Supervisor
+,Linda Thompson,Operations Manager
+,William Davis,Front Desk Clerk
+,Ashley Green,Night Manager

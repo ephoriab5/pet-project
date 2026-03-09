@@ -1,0 +1,10 @@
+,101,standard,800.00,available
+,102,standard,800.00,booked
+,103,standard,850.00,maintenance
+,201,lux,1500.00,available
+,202,lux,1550.00,booked
+,203,lux,1500.00,available
+,301,suite,2500.00,booked
+,302,suite,2500.00,available
+,303,suite,2700.00,available
+,104,standard,800.00,available
