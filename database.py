@@ -21,6 +21,8 @@ AsyncSessionLocal = async_sessionmaker(
     expire_on_commit=False
 )
 
-# 4. ГОЛОВНЕ: СТВОРЮЄМО BASE ТУТ!
 class Base(DeclarativeBase):
     pass
+
+
+#new techlogia
